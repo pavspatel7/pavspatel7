@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pavspatel7
 - 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... HTML, CSS, Javascript, Bootstrap, SQL, C#, .NET framework, Visual Studio, Visual Studio Code, Git, & Eclipse
+- 🌱 I’m currently learning ... C#, .NET framework, SQL, HTML, CSS, Javascript, Bootstrap, Visual Studio, Visual Studio Code, Git, & Eclipse
 - 💞️ I’m looking to collaborate on ... C# & .NET framework
 - 📫 How to reach me ... Email me at pavitrapatel2112@gmail.com
