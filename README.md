@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @pavspatel7
-- 👀 I’m interested in ... Software Engineering
+- 👀 I’m interested in ... Computer Science
 - 📫 How to reach me ... Email me at pavs.network7@gmail.com
